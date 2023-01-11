@@ -1,2 +1,2 @@
-# latascainformatica.github.io
+# La Tasca Informática
 Blog de tecnología
